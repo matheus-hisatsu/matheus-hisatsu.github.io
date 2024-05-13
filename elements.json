@@ -1,0 +1,652 @@
+[
+    {
+        "name": "Ayrton Senna",
+        "classification": "Hidrogênio",
+        "elements": [
+            {
+                "name": "Ayrton Senna",
+                "element": "Hidrogênio",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "name": "Haas",
+        "classification": "Alcalinos",
+        "elements": [
+            {
+                "name": "Esteban Gutiérrez",
+                "element": "Lítio",
+                "number": 3
+            },
+            {
+                "name": "Romain Grosjean",
+                "element": "Sódio",
+                "number": 11
+            },
+            {
+                "name": "Kevin Magnussen",
+                "element": "Potássio",
+                "number": 19
+            },
+            {
+                "name": "Pietro Fittipaldi",
+                "element": "Rubídio",
+                "number": 37
+            },
+            {
+                "name": "Mick Schumacher",
+                "element": "Césio",
+                "number": 55
+            },
+            {
+                "name": "Nikita Mazepin",
+                "element": "Frâncio",
+                "number": 87
+            }
+        ]
+    },
+    {
+        "name": "AlphaTauri",
+        "classification": "Alcalinoterrosos",
+        "elements": [
+            {
+                "name": "Liam Lawson",
+                "element": "Berílio",
+                "number": 4
+            },
+            {
+                "name": "Daniel Ricciardo",
+                "element": "Magnésio",
+                "number": 12
+            },
+            {
+                "name": "Yuki Tsunoda",
+                "element": "Cálcio",
+                "number": 20
+            },
+            {
+                "name": "Nyck de Vries",
+                "element": "Estrôncio",
+                "number": 38
+            },
+            {
+                "name": "Isack Hadjar",
+                "element": "Bário",
+                "number": 56
+            },
+            {
+                "name": "Daniil Kvyat",
+                "element": "Rádio",
+                "number": 88
+            }
+        ]
+    },
+    {
+        "name": "Ferrari",
+        "classification": "Metais de transição",
+        "elements": [
+            {
+                "name": "Carlos Sainz",
+                "element": "Escândio",
+                "number": 21
+            },
+            {
+                "name": "Charles Leclerc",
+                "element": "Titânio",
+                "number": 22
+            },
+            {
+                "name": "Jean Alesi",
+                "element": "Vanádio",
+                "number": 23
+            },
+            {
+                "name": "Cliff Allison",
+                "element": "Crômio",
+                "number": 24
+            },
+            {
+                "name": "Fernando Alonso",
+                "element": "Manganês",
+                "number": 25
+            },
+            {
+                "name": "Chris Amon",
+                "element": "Ferro",
+                "number": 26
+            },
+            {
+                "name": "Mario Andretti",
+                "element": "Cobalto",
+                "number": 27
+            },
+            {
+                "name": "René Arnoux",
+                "element": "Níquel",
+                "number": 28
+            },
+            {
+                "name": "Alberto Ascari",
+                "element": "Cobre",
+                "number": 29
+            },
+            {
+                "name": "Luca Badoer",
+                "element": "Zinco",
+                "number": 30
+            },
+            {
+                "name": "Giancarlo Baghetti",
+                "element": "Ítrio",
+                "number": 39
+            },
+            {
+                "name": "Lorenzo Bandini",
+                "element": "Zircônio",
+                "number": 40
+            },
+            {
+                "name": "Oliver Bearman",
+                "element": "Nióbio",
+                "number": 41
+            },
+            {
+                "name": "Jean Behra",
+                "element": "Molibdênio",
+                "number": 42
+            },
+            {
+                "name": "Derek Reginald Bell",
+                "element": "Tecnécio",
+                "number": 43
+            },
+            {
+                "name": "Gerhard Berger",
+                "element": "Rutênio",
+                "number": 44
+            },
+            {
+                "name": "Ernesto Brambilla",
+                "element": "Ródio",
+                "number": 45
+            },
+            {
+                "name": "Tony Brooks",
+                "element": "Paládio",
+                "number": 46
+            },
+            {
+                "name": "Ivan Capelli",
+                "element": "Prata",
+                "number": 47
+            },
+            {
+                "name": "Piero Carini",
+                "element": "Cádmio",
+                "number": 48
+            },
+            {
+                "name": "Eugenio Castellotti",
+                "element": "Lutécio",
+                "number": 71
+            },
+            {
+                "name": "Peter Collins",
+                "element": "Háfnio",
+                "number": 72
+            },
+            {
+                "name": "Juan Manuel Fangio",
+                "element": "Tântalo",
+                "number": 73
+            },
+            {
+                "name": "Giuseppe Farina",
+                "element": "Tungstênio",
+                "number": 74
+            },
+            {
+                "name": "Felipe Massa",
+                "element": "Rênio",
+                "number": 75
+            },
+            {
+                "name": "Giancarlo Fisichella",
+                "element": "Ósmio",
+                "number": 76
+            },
+            {
+                "name": "Paul Frère",
+                "element": "Irídio",
+                "number": 77
+            },
+            {
+                "name": "Nanni Galli",
+                "element": "Platina",
+                "number": 78
+            },
+            {
+                "name": "Olivier Gendebien",
+                "element": "Ouro",
+                "number": 79
+            },
+            {
+                "name": "Richie Ginther",
+                "element": "Mercúrio",
+                "number": 80
+            },
+            {
+                "name": "Ignazio Giunti",
+                "element": "Laurêncio",
+                "number": 103
+            },
+            {
+                "name": "José Froilán González",
+                "element": "Rutherfórdio",
+                "number": 104
+            },
+            {
+                "name": "Dan Gurney",
+                "element": "Dúbnio",
+                "number": 105
+            },
+            {
+                "name": "Mike Hawthorn",
+                "element": "Seabórgio",
+                "number": 106
+            },
+            {
+                "name": "Phil Hill",
+                "element": "Bóhrio",
+                "number": 107
+            },
+            {
+                "name": "Jacky Ickx",
+                "element": "Hássio",
+                "number": 108
+            },
+            {
+                "name": "Eddie Irvine",
+                "element": "Meitnério",
+                "number": 109
+            },
+            {
+                "name": "Stefan Johansson",
+                "element": "Darmstádio",
+                "number": 110
+            },
+            {
+                "name": "Nicola Larini",
+                "element": "Roentgênio",
+                "number": 111
+            },
+            {
+                "name": "Niki Lauda",
+                "element": "Copernício",
+                "number": 112
+            }
+        ]
+    },
+    {
+        "name": "Alpine",
+        "classification": "Outros ametais",
+        "elements": [
+            {
+                "name": "Esteban Ocon",
+                "element": "Boro",
+                "number": 5
+            },
+            {
+                "name": "Pierre Gasly",
+                "element": "Carbono",
+                "number": 6
+            },
+            {
+                "name": "Oscar Piastri",
+                "element": "Nitrogênio",
+                "number": 7
+            },
+            {
+                "name": "Jack Doohan",
+                "element": "Silício",
+                "number": 14
+            },
+            {
+                "name": "Daniel Ricciardo",
+                "element": "Fósforo",
+                "number": 15
+            },
+            {
+                "name": "Carlos Sainz Jr",
+                "element": "Arsênio",
+                "number": 33
+            }
+        ]
+    },
+    {
+        "name": "Stake",
+        "classification": "Calcogênios",
+        "elements": [
+            {
+                "name": "Valtteri Bottas",
+                "element": "Oxigênio",
+                "number": 8
+            },
+            {
+                "name": "Guanyu Zhou",
+                "element": "Enxofre",
+                "number": 16
+            },
+            {
+                "name": "Arthur Leclerc",
+                "element": "Selênio",
+                "number": 34
+            },
+            {
+                "name": "Fabio Scherer",
+                "element": "Telúrio",
+                "number": 52
+            }
+        ]
+    },
+    {
+        "name": "Mercedes",
+        "classification": "Halogênios",
+        "elements": [
+            {
+                "name": "Lewis Hamilton",
+                "element": "Flúor",
+                "number": 9
+            },
+            {
+                "name": "George Russell",
+                "element": "Cloro",
+                "number": 17
+            },
+            {
+                "name": "Nico Rosberg",
+                "element": "Bromo",
+                "number": 35
+            },
+            {
+                "name": "Karl Kling",
+                "element": "Iodo",
+                "number": 53
+            },
+            {
+                "name": "Hans Herrmann",
+                "element": "Astato",
+                "number": 85
+            }
+        ]
+    },
+    {
+        "name": "Red Bull",
+        "classification": "Gases nobres",
+        "elements": [
+            {
+                "name": "Max Verstappen",
+                "element": "Hélio",
+                "number": 2
+            },
+            {
+                "name": "Sergio Perez",
+                "element": "Neônio",
+                "number": 10
+            },
+            {
+                "name": "Mark Webber",
+                "element": "Argônio",
+                "number": 18
+            },
+            {
+                "name": "David Coulthard",
+                "element": "Criptônio",
+                "number": 36
+            },
+            {
+                "name": "Alexander Albon",
+                "element": "Xenônio",
+                "number": 54
+            },
+            {
+                "name": "Vitantonio Liuzzi",
+                "element": "Radônio",
+                "number": 86
+            },
+            {
+                "name": "Christian Klien",
+                "element": "Oganessônio",
+                "number": 118
+            }
+        ]
+    },
+    {
+        "name": "Williams",
+        "classification": "Outros metais",
+        "elements": [
+            {
+                "name": "Alain Prost",
+                "element": "Alumínio",
+                "number": 13
+            },
+            {
+                "name": "Alan Jones",
+                "element": "Gálio",
+                "number": 31
+            },
+            {
+                "name": "Nigel Mansell",
+                "element": "Germânico",
+                "number": 32
+            },
+            {
+                "name": "Nelson Piquet",
+                "element": "Índio",
+                "number": 49
+            },
+            {
+                "name": "Keke Rosberg",
+                "element": "Estanho",
+                "number": 50
+            },
+            {
+                "name": "Jenson Button",
+                "element": "Antimônio",
+                "number": 51
+            },
+            {
+                "name": "Damon Hill",
+                "element": "Tálio",
+                "number": 81
+            },
+            {
+                "name": "Jacques Villenueve",
+                "element": "Chumbo",
+                "number": 82
+            },
+            {
+                "name": "Rubens Barrichelo",
+                "element": "Bismuto",
+                "number": 83
+            },
+            {
+                "name": "Juan Pablo Montoya",
+                "element": "Polônio",
+                "number": 84
+            },
+            {
+                "name": "Riccardo Patrese",
+                "element": "Nihônio",
+                "number": 113
+            },
+            {
+                "name": "Ralf Schumacher",
+                "element": "Fleróvio",
+                "number": 114
+            },
+            {
+                "name": "Nick Heidfeld",
+                "element": "Moscóvio",
+                "number": 115
+            },
+            {
+                "name": "Nico Hulkenberg",
+                "element": "Livermório",
+                "number": 116
+            },
+            {
+                "name": "Bruno Senna",
+                "element": "Tennesso",
+                "number": 117
+            }
+        ]
+    },
+    {
+        "name": "McLaren",
+        "classification": "Metais de transição interna",
+        "elements": [
+            {
+                "name": "Bruce McLaren",
+                "element": "Lantânio",
+                "number": 57
+            },
+            {
+                "name": "Philippe Alliot",
+                "element": "Cério",
+                "number": 58
+            },
+            {
+                "name": "Michael Andretti",
+                "element": "Praseodímio",
+                "number": 59
+            },
+            {
+                "name": "Mark Blundell",
+                "element": "Neodímio",
+                "number": 60
+            },
+            {
+                "name": "Martin Brundle",
+                "element": "Promécio",
+                "number": 61
+            },
+            {
+                "name": "Dave Charlton",
+                "element": "Samário",
+                "number": 62
+            },
+            {
+                "name": "Andrea de Cesaris",
+                "element": "Európio",
+                "number": 63
+            },
+            {
+                "name": "Pedro de la Rosa",
+                "element": "Gadolínio",
+                "number": 64
+            },
+            {
+                "name": "Emerson Fittipaldi",
+                "element": "Térbio",
+                "number": 65
+            },
+            {
+                "name": "Peter Gethin",
+                "element": "Disprósio",
+                "number": 66
+            },
+            {
+                "name": "Bruno Giacomelli",
+                "element": "Hólmio",
+                "number": 67
+            },
+            {
+                "name": "Denny Hulme",
+                "element": "Érbio",
+                "number": 68
+            },
+            {
+                "name": "James Hunt",
+                "element": "Túlio",
+                "number": 69
+            },
+            {
+                "name": "Heikki Kovalainen",
+                "element": "Itérbio",
+                "number": 70
+            },
+            {
+                "name": "Jan Magnussen",
+                "element": "Actínio",
+                "number": 89
+            },
+            {
+                "name": "Lando Norris",
+                "element": "Thório",
+                "number": 90
+            },
+            {
+                "name": "Stoffel Vandoorne",
+                "element": "Proatactínio",
+                "number": 91
+            },
+            {
+                "name": "Mika Hakkinen",
+                "element": "Urânio",
+                "number": 92
+            },
+            {
+                "name": "John Watson",
+                "element": "Netúnio",
+                "number": 93
+            },
+            {
+                "name": "Emilio de Villota",
+                "element": "Plutônio",
+                "number": 94
+            },
+            {
+                "name": "Tony Trimmer",
+                "element": "Amerício",
+                "number": 95
+            },
+            {
+                "name": "Brett Lunger",
+                "element": "Cúrio",
+                "number": 96
+            },
+            {
+                "name": "Gilles Villenueve",
+                "element": "Berquélio",
+                "number": 97
+            },
+            {
+                "name": "Jochen Mass",
+                "element": "Califórnio",
+                "number": 98
+            },
+            {
+                "name": "David Hobbs",
+                "element": "Einstênio",
+                "number": 99
+            },
+            {
+                "name": "Peter Revson",
+                "element": "Férmio",
+                "number": 100
+            },
+            {
+                "name": "Jody Scheckter",
+                "element": "Mendelévio",
+                "number": 101
+            },
+            {
+                "name": "Jo Bonnier",
+                "element": "Nobélio",
+                "number": 102
+            }
+        ]
+    }
+]

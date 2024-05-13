@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="pilots.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        crossorigin="anonymous"></script>
+    <title>Equipe - Tabela Periódica</title>
+</head>
+<body onload="loaded()">
+    <button onclick="back()"><</button>
+    <div class="classification-item">
+        <img id="team-img">
+        <h1>&nbsp</h1>
+        <h2>Elementos</h2>
+        <ul>
+        </ul>
+    </div>
+
+    <script>
+        function back() {
+            window.location.replace("/")
+        }
+        function loaded() {
+            var team = getCookieValue("team");
+            $("#team-img")[0].src = `images/${team}.png`;
+            $.getJSON("elements.json", data => {
+                var teamJS = data.find(el => el.name == team);
+                $("h1").first().text(`${team} "${teamJS.classification}"`);
+                teamJS.elements.forEach(el => {
+                    var label = document.createElement("label");
+                    label.innerText = `${el.number} - ${el.name} "${el.element}"`;
+                    var li = document.createElement("li");
+                    $("ul")[0].appendChild(li);
+                    li.appendChild(label);
+                })
+            });
+        }
+
+        const getCookieValue = (name) => (
+            document.cookie.match('(^|;)\\s*' + name + '\\s*=\\s*([^;]+)')?.pop() || ''
+        )
+    </script>
+</body>
+</html>

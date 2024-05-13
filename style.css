@@ -1,0 +1,13 @@
+.table {
+    position: absolute;
+}
+.classification {
+    position: absolute;
+    border: 2px solid red;
+    cursor: pointer;
+}
+.classification img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
